@@ -1,0 +1,45 @@
+.products{
+    position: relative;
+}
+.products-div{
+    position: absolute;
+    top:-12rem ;
+    
+}
+.products-div p{
+    font-size: 12px;
+}
+.products-div a{
+    text-decoration: none;
+}
+.book-travel-ticket{
+    background-color: white;
+    height: 400px;
+    
+    padding: 20px;
+}
+.Clearance-store{
+    background-color: white;
+    height: 400px;
+    
+}
+.Clearance-store a{
+    padding-left: 20px;
+}
+.Clearance-store img{
+    padding: 20px;
+    padding-left: 15px;
+}
+.home{
+    background-color: white;
+    height: 400px;
+    
+    padding: 15px; 
+    margin-right: 1rem;
+}
+.Sign-in{
+    background-color: white;
+    height: 400px;
+    
+    padding: 20px; 
+}

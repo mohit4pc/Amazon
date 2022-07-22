@@ -1,0 +1,27 @@
+.nav-search-bar button{
+    background-color: #febd69;
+    border: none;
+    margin-left: -2px;
+    border-radius: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: fit-content;
+}
+.nav-search-bar button svg{
+    margin-top: -7px;
+    margin-left: 10px;
+    margin-right: 10px;     
+}
+.nav-search-bar{
+    height: 80px;
+    width: 1200px;
+    margin-left: -3rem;
+}
+.nav-user p{
+    margin-bottom: 0 !important;
+    font-size: 13px;
+}
+.nav-search-bar button:hover{
+    color: #febd69;
+    background-color:white;
+}

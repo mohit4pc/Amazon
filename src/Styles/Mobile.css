@@ -1,0 +1,26 @@
+.mohit{
+    width: 3px;
+    height: 395px;
+    background-color: black;
+    margin-right: 3rem;
+    margin-top: 3rem;
+}
+.buy-btn:first-child{
+    margin-left: 9rem;
+    margin-bottom: 4rem;
+}
+.buy-btn:last-child{
+    margin-bottom: 4rem;
+}
+.buy-btn:hover{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.buy-btn{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+}

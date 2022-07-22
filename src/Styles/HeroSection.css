@@ -1,0 +1,15 @@
+.hero-section{
+    background-image:url("../Assets/image/slider1.jpg");
+    background-size: 100%;
+    height: 500px;
+    position: relative;
+}
+.data svg:first-child{
+    position: absolute;
+    top: 6.5rem
+}
+.data svg:last-child{
+    position: absolute;
+    top: 6.5rem;
+    right: 0;
+}
